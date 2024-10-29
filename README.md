@@ -13,13 +13,21 @@
 2. Склонируйте данный репозиторий на свой компьютер.
 3. Перейдите в папку с проектом:
   ```
-    git clone https://github.com/ваш_пользователь/github-python-calculator.git
+    git clone https://github.com/Mink7891/Calculator.git
   ```
 4. Перейдите в папку с проектом:
    ```
-   cd 
+   cd Calculator
    ```
-6. Установите `tkinter`:
+5. Установите `tkinter`:
    ```
    pip install tk
    ```
+6. Запустите калькулятор:
+   ```
+   python main.py
+   ```
+
+### Изображения интерфейса
+
+- **Изображения интерфейса**
