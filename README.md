@@ -12,19 +12,19 @@
 1. Убедитесь, что у вас установлен Python 3.x.
 2. Склонируйте данный репозиторий на свой компьютер:
     ```
-       git clone https://github.com/Mink7891/Calculator.git
+    git clone https://github.com/Mink7891/Calculator.git
     ```
 3. Перейдите в папку с проектом:
    ```
-      cd Calculator
+   cd Calculator
    ```
 4. Установите `tkinter`:
    ```
-      pip install tk
+   pip install tk
    ```
 5. Запустите калькулятор:
    ```
-      python main.py
+   python main.py
    ```
 
 ### Изображения интерфейса
