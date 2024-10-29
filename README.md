@@ -30,4 +30,7 @@
 
 ### Изображения интерфейса
 
-- **Изображения интерфейса**
+![image](https://github.com/user-attachments/assets/28b535c2-67c5-4bea-881a-d70e37fecb77)
+
+![image](https://github.com/user-attachments/assets/ea318970-8309-474e-ab8e-7e18c8ee1fe7)
+
