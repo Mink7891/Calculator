@@ -29,8 +29,9 @@
    ```
 
 ### Изображения интерфейса
+Светлая тема:
+![image](https://github.com/user-attachments/assets/24b1080f-5c7e-4dd2-8853-6896a12a6c9a)
+Тёмная тема:
+![image](https://github.com/user-attachments/assets/b6410025-e4e2-48d4-9f8e-355736134d07)
 
-![image](https://github.com/user-attachments/assets/28b535c2-67c5-4bea-881a-d70e37fecb77)
-
-![image](https://github.com/user-attachments/assets/ea318970-8309-474e-ab8e-7e18c8ee1fe7)
 
